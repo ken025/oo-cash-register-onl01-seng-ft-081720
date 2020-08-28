@@ -36,7 +36,7 @@ end
     self.total = @total - @transactions.pop
   if 
     @items == 0 
-    self.total = 0.0
+    self.total = "0.0"
   
   end
 end 
