@@ -37,6 +37,7 @@ end
   if 
     @items == 0 
     @total = 0.0
+    @total
   end
 end 
 end 
