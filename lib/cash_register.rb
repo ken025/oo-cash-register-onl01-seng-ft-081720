@@ -34,7 +34,6 @@ end
 
   def void_last_transaction
     self.total = @total - @transactions.pop
-  end
   if 
     items == 0 
     total = 0.0
