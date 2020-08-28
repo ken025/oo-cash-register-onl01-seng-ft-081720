@@ -38,4 +38,5 @@ end
   if 
     items == 0 
     total = 0.0
+  end
 end 
